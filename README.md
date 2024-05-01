@@ -28,7 +28,7 @@
 
  <br>
 <h3>Profile Views</h3>
- <p align="left"> <img src="https://profile-counter.glitch.me/desphixs/count.svg" alt="desphixs" /> </p>
+ <p align="left"> <img src="https://profile-counter.glitch.me/DanishIrfan1/count.svg" alt="desphixs" /> </p>
  </br>
 
 <h3 align="left">Connect with me:</h3>
