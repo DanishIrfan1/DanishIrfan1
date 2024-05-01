@@ -26,6 +26,11 @@
 
 - ⚡ Fun fact **I think, I am over thinker 😂**
 
+ <br>
+<h3>Profile Views</h3>
+ <p align="left"> <img src="https://profile-counter.glitch.me/desphixs/count.svg" alt="desphixs" /> </p>
+ </br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/coderistaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coderistaan" height="30" width="40" /></a>
